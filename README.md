@@ -1,4 +1,4 @@
-# Real-time-Detection-Alzheimer-Disease
+# Real-time-Alzheimer-Disease-Detection
 
 Blink Detection, Gaze Tracking & Speech Recognition App
 

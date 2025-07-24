@@ -30,7 +30,7 @@ Follow these steps to set up and run the project locally:
 git clone https://github.com/divs-spec/Real-time-Detection-Alzheimer-Disease.git
 
 # Navigate to the project directory
-cd Realtime-Alzheimers-disease-detection
+cd Real-time-Detection-Alzheimers-Disease
 
 # Install required dependencies
 pip install -r requirements.txt
